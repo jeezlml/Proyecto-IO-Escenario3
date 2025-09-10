@@ -1,0 +1,3 @@
+CC;100;Luis;Ruiz
+CC;101;Maria;Perez
+CC;102;Luis;Ruiz
