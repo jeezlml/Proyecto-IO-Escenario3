@@ -1,0 +1,8 @@
+1. Lo aprendido durante el desarrollo del proyecto:
+Este proyecto me ayudó a reforzar mi lógica y la importancia de estructurar un programa limpio y modular. Entendí mejor cómo trabajar con archivos planos en Java, cómo validar datos, manejar errores y generar reportes automáticos. También aprendí a pensar en los flujos de entrada, proceso y salida como piezas independientes que deben funcionar sin depender del usuario. En pocas palabras: aprendí a construir algo que “vive solo” y responde de forma controlada ante los errores.
+
+2. Posibles aplicaciones en mi vida profesional:
+Como QA y futura ingeniera de software, este tipo de ejercicios me sirve directamente. La generación automática de datos y la validación de resultados son tareas muy comunes en pruebas automatizadas. Además, comprender cómo se estructura la lógica interna de un sistema me permite probar con más criterio. También, desde mi interés por el desarrollo frontend, me ayuda a entender mejor la parte del backend y el manejo de datos que finalmente terminan visualizándose en interfaces.
+
+3. Dificultades presentadas:
+Uno de los retos fue organizar las clases para que funcionaran de forma totalmente independiente y sin interacción del usuario. También fue un poco tedioso manejar los errores sin romper la ejecución del programa. Sin embargo, fue una buena práctica de pensamiento lógico, control de excepciones y limpieza en el código. Al final todo funcionó correctamente, con mensajes claros y archivos generados según lo esperado.
